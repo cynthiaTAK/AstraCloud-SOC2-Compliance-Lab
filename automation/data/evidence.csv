@@ -1,0 +1,25 @@
+Evidence ID,Control ID,Evidence item,Control Owner,Period,Due Date,Submitted Date,Reviewer,Review Decision,Evidence Location,Calculated Status,Remediation / Notes,Evidence Type
+EV-001,AC-01,MFA policy approval,IT Security,Q1 2026,46063,46062,GRC Analyst,Accepted,SIMULATED/evidence/EV-001.pdf,Pass,Fictional sample; no real systems accessed,Policy/Export
+EV-002,AC-01,MFA enrollment export,IT Security,Q2 2026,46203,46202,GRC Analyst,Accepted,SIMULATED/evidence/EV-002.pdf,Pass,Fictional sample; no real systems accessed,Test/Record
+EV-003,AC-02,Q1 access review,IT Operations,Q1 2026,46127,46122,GRC Analyst,Accepted,SIMULATED/evidence/EV-003.pdf,Pass,Fictional sample; no real systems accessed,Policy/Export
+EV-004,AC-02,Q2 access review,IT Operations,Q2 2026,46218,,GRC Analyst,Pending,,Overdue,Fictional sample; no real systems accessed,Test/Record
+EV-005,AC-03,Offboarding procedure,HR / IT,Q1 2026,46073,46071,GRC Analyst,Accepted,SIMULATED/evidence/EV-005.pdf,Pass,Fictional sample; no real systems accessed,Policy/Export
+EV-006,AC-03,Sample termination ticket,HR / IT,Q2 2026,46193,46191,GRC Analyst,Exception,SIMULATED/evidence/EV-006.pdf,Exception,Fictional sample; no real systems accessed,Test/Record
+EV-007,CL-01,AWS baseline document,Cloud Engineering,Q1 2026,46082,46078,GRC Analyst,Accepted,SIMULATED/evidence/EV-007.pdf,Pass,Fictional sample; no real systems accessed,Policy/Export
+EV-008,CL-01,June AWS Config export,Cloud Engineering,Q2 2026,46208,,GRC Analyst,Pending,,Overdue,Fictional sample; no real systems accessed,Test/Record
+EV-009,CL-02,Vulnerability scan report,Cloud Engineering,Q1 2026,46188,46187,GRC Analyst,Accepted,SIMULATED/evidence/EV-009.pdf,Pass,Fictional sample; no real systems accessed,Policy/Export
+EV-010,CL-02,Critical finding remediation,Cloud Engineering,Q2 2026,46198,,GRC Analyst,Pending,,Overdue,Fictional sample; no real systems accessed,Test/Record
+EV-011,CH-01,Change approval procedure,Engineering,Q1 2026,46081,46079,GRC Analyst,Accepted,SIMULATED/evidence/EV-011.pdf,Pass,Fictional sample; no real systems accessed,Policy/Export
+EV-012,CH-01,Production change sample,Engineering,Q2 2026,46203,46202,GRC Analyst,Accepted,SIMULATED/evidence/EV-012.pdf,Pass,Fictional sample; no real systems accessed,Test/Record
+EV-013,CH-02,GitHub branch protections,Engineering,Q1 2026,46096,46093,GRC Analyst,Accepted,SIMULATED/evidence/EV-013.pdf,Pass,Fictional sample; no real systems accessed,Policy/Export
+EV-014,CH-02,Pull request review sample,Engineering,Q2 2026,46203,46203,GRC Analyst,Accepted,SIMULATED/evidence/EV-014.pdf,Pass,Fictional sample; no real systems accessed,Test/Record
+EV-015,IR-01,Incident response plan,Security,Q1 2026,46101,46100,GRC Analyst,Accepted,SIMULATED/evidence/EV-015.pdf,Pass,Fictional sample; no real systems accessed,Policy/Export
+EV-016,IR-01,Annual tabletop exercise,Security,Q2 2026,46193,,GRC Analyst,Pending,,Overdue,Fictional sample; no real systems accessed,Test/Record
+EV-017,IR-02,SIEM monitoring procedure,Security Operations,Q1 2026,46068,46067,GRC Analyst,Accepted,SIMULATED/evidence/EV-017.pdf,Pass,Fictional sample; no real systems accessed,Policy/Export
+EV-018,IR-02,June alert triage sample,Security Operations,Q2 2026,46203,46202,GRC Analyst,Accepted,SIMULATED/evidence/EV-018.pdf,Pass,Fictional sample; no real systems accessed,Test/Record
+EV-019,VR-01,Critical vendor inventory,Procurement / Security,Q1 2026,46113,46111,GRC Analyst,Accepted,SIMULATED/evidence/EV-019.pdf,Pass,Fictional sample; no real systems accessed,Policy/Export
+EV-020,VR-01,Vendor annual review,Procurement / Security,Q2 2026,46203,,GRC Analyst,Pending,,Overdue,Fictional sample; no real systems accessed,Test/Record
+EV-021,GV-01,Security policy approval,GRC,Q1 2026,46112,46110,GRC Analyst,Accepted,SIMULATED/evidence/EV-021.pdf,Pass,Fictional sample; no real systems accessed,Policy/Export
+EV-022,GV-01,Employee acknowledgments,GRC,Q2 2026,46203,46203,GRC Analyst,Accepted,SIMULATED/evidence/EV-022.pdf,Pass,Fictional sample; no real systems accessed,Test/Record
+EV-023,BC-01,Q1 restoration test,IT Operations,Q1 2026,46127,46124,GRC Analyst,Accepted,SIMULATED/evidence/EV-023.pdf,Pass,Fictional sample; no real systems accessed,Policy/Export
+EV-024,BC-01,Q2 restoration test,IT Operations,Q2 2026,46218,,GRC Analyst,Pending,,Overdue,Fictional sample; no real systems accessed,Test/Record

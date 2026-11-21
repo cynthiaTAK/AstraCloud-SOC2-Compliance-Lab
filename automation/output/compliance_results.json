@@ -1,0 +1,107 @@
+{
+  "notice": "SIMULATED DATA \u2014 NOT A SOC 2 AUDIT OR LIVE VANTA/DRATA INTEGRATION",
+  "as_of": "2026-07-31",
+  "controls": 12,
+  "evidence_requests": 24,
+  "accepted_evidence": 17,
+  "evidence_acceptance_pct": 70.8,
+  "evidence_statuses": {
+    "Pass": 17,
+    "Overdue": 6,
+    "Exception": 1
+  },
+  "access_review_statuses": {
+    "Approved": 4,
+    "Closed": 2,
+    "Removal Overdue": 1,
+    "Review Overdue": 1
+  },
+  "control_health": {
+    "AC-01": "Pass",
+    "AC-02": "Attention Required",
+    "AC-03": "Exception",
+    "CL-01": "Overdue",
+    "CL-02": "Overdue",
+    "CH-01": "Pass",
+    "CH-02": "Pass",
+    "IR-01": "Overdue",
+    "IR-02": "Pass",
+    "VR-01": "Overdue",
+    "GV-01": "Pass",
+    "BC-01": "Overdue"
+  },
+  "alerts": [
+    {
+      "type": "Evidence",
+      "id": "EV-004",
+      "control": "AC-02",
+      "status": "Overdue",
+      "owner": "IT Operations",
+      "due": "2026-07-15"
+    },
+    {
+      "type": "Evidence",
+      "id": "EV-006",
+      "control": "AC-03",
+      "status": "Exception",
+      "owner": "HR / IT",
+      "due": "2026-06-20"
+    },
+    {
+      "type": "Evidence",
+      "id": "EV-008",
+      "control": "CL-01",
+      "status": "Overdue",
+      "owner": "Cloud Engineering",
+      "due": "2026-07-05"
+    },
+    {
+      "type": "Evidence",
+      "id": "EV-010",
+      "control": "CL-02",
+      "status": "Overdue",
+      "owner": "Cloud Engineering",
+      "due": "2026-06-25"
+    },
+    {
+      "type": "Evidence",
+      "id": "EV-016",
+      "control": "IR-01",
+      "status": "Overdue",
+      "owner": "Security",
+      "due": "2026-06-20"
+    },
+    {
+      "type": "Evidence",
+      "id": "EV-020",
+      "control": "VR-01",
+      "status": "Overdue",
+      "owner": "Procurement / Security",
+      "due": "2026-06-30"
+    },
+    {
+      "type": "Evidence",
+      "id": "EV-024",
+      "control": "BC-01",
+      "status": "Overdue",
+      "owner": "IT Operations",
+      "due": "2026-07-15"
+    },
+    {
+      "type": "Access Review",
+      "id": "AR-004",
+      "control": "AC-02",
+      "status": "Removal Overdue",
+      "owner": "IT Operations",
+      "due": "2026-07-02"
+    },
+    {
+      "type": "Access Review",
+      "id": "AR-005",
+      "control": "AC-02",
+      "status": "Review Overdue",
+      "owner": "IT Operations",
+      "due": "2026-07-15"
+    }
+  ]
+}

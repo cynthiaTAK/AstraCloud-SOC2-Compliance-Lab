@@ -1,0 +1,15 @@
+{
+  "source_phase": "Phase 4",
+  "as_of": "2026-07-31",
+  "source_files": [
+    "data/controls.csv",
+    "data/evidence.csv",
+    "data/access_reviews.csv",
+    "output/compliance_alerts.csv"
+  ],
+  "controls": 12,
+  "evidence_requests": 24,
+  "access_reviews": 8,
+  "alerts": 9,
+  "simulated": true
+}

@@ -1,0 +1,75 @@
+{
+  "original_files_copied_unchanged": true,
+  "files": [
+    {
+      "original_source": "AstraCloud_SOC2_Phase3_Compliance_Dashboard.xlsx",
+      "packaged_path": "phase3/AstraCloud_SOC2_Phase3_Compliance_Dashboard.xlsx",
+      "sha256": "bdd68e9880408ac5e1a25259161e53e5164d40d28f238e893c49aff8b677e5c1"
+    },
+    {
+      "original_source": "AstraCloud_Phase4/compliance_monitor.py",
+      "packaged_path": "automation/compliance_monitor.py",
+      "sha256": "ad028edbb7847ef88bb436f4705cb5c3e0dd116a37057845b1baba8ad2c0cf1c"
+    },
+    {
+      "original_source": "AstraCloud_Phase4/README.md",
+      "packaged_path": "automation/README.md",
+      "sha256": "302ea77d0c78469854dc98bb8a3ed44aafa55228b1c6340bce8ec317042e8aeb"
+    },
+    {
+      "original_source": "AstraCloud_Phase4/data/controls.csv",
+      "packaged_path": "automation/data/controls.csv",
+      "sha256": "e92058d47ea009a3485744a4fc209b5a51fe7ea347aaebfd1d78c2be64b3c677"
+    },
+    {
+      "original_source": "AstraCloud_Phase4/data/evidence.csv",
+      "packaged_path": "automation/data/evidence.csv",
+      "sha256": "b2ab98fd5d2ed8c87a554510479e023fec54e297f6fc8a7c37c20e5f745415e8"
+    },
+    {
+      "original_source": "AstraCloud_Phase4/data/access_reviews.csv",
+      "packaged_path": "automation/data/access_reviews.csv",
+      "sha256": "75b8449a5ffd135a82510b52ae6a8cdefce22f7aa93565f2eba3d54025ddcf9e"
+    },
+    {
+      "original_source": "AstraCloud_Phase4/output/compliance_results.json",
+      "packaged_path": "automation/output/compliance_results.json",
+      "sha256": "e9b64c6c0e83db4b1a2a3e0384a8d21dd897464e3bf57b3d9f2ecde899968871"
+    },
+    {
+      "original_source": "AstraCloud_Phase4/output/compliance_alerts.csv",
+      "packaged_path": "automation/output/compliance_alerts.csv",
+      "sha256": "4a613877b99a88a708455ffbcca565d6f72c1821c00550337724e1851936629b"
+    },
+    {
+      "original_source": "AstraCloud_Phase4/output/management_report.md",
+      "packaged_path": "automation/output/management_report.md",
+      "sha256": "d067765948241bab7a5f4657f8c37c14c8816b2642094f2dd4d141bde824fedf"
+    },
+    {
+      "original_source": "AstraCloud_Phase5/control_testing.csv",
+      "packaged_path": "audit/control_testing.csv",
+      "sha256": "1e6b3eed5bd2e044efa264093c1bfa9c3c6cf3cd72fb4206eda2292cbaa27bb8"
+    },
+    {
+      "original_source": "AstraCloud_Phase5/findings_and_remediation.csv",
+      "packaged_path": "audit/findings_and_remediation.csv",
+      "sha256": "f3323f17fb24f57cda4c2ea2580a0c5c354faae7bd1fa959e1cf1c7f119b2a60"
+    },
+    {
+      "original_source": "AstraCloud_Phase5/executive_audit_report.md",
+      "packaged_path": "audit/phase5_executive_audit_report.md",
+      "sha256": "5b9e3853865dfa5e621edd6331d8bbf1f8c2886bedaa25d96936c4d88d5f1f93"
+    },
+    {
+      "original_source": "AstraCloud_Phase5/audit_workpaper_instructions.md",
+      "packaged_path": "audit/audit_workpaper_instructions.md",
+      "sha256": "5c5fd0fd3e6fce8602bfe5f26302c31f3d1048263502a6f8dd8597fa388ce0ce"
+    },
+    {
+      "original_source": "AstraCloud_Phase5/source_manifest.json",
+      "packaged_path": "audit/source_manifest.json",
+      "sha256": "b072c0246e93245a3c648a63939c6a644e0f14ebe788e7e2049acdd7404d12c8"
+    }
+  ]
+}

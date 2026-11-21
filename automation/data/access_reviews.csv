@@ -1,0 +1,9 @@
+Review ID,Quarter,System,Account ID,Access Type,Reviewer,Review Due,Reviewed On,Decision,Removal Due,Closed On,Calculated Status
+AR-001,Q1 2026,AWS IAM,sample-user-01,Admin,IT Operations,46127,46122,Retain,,,Approved
+AR-002,Q1 2026,GitHub,sample-user-02,Developer,IT Operations,46127,46122,Retain,,,Approved
+AR-003,Q1 2026,SSO,sample-user-03,Standard,IT Operations,46127,46122,Remove,46130,46128,Closed
+AR-004,Q2 2026,AWS IAM,sample-user-04,Admin,IT Operations,46218,46201,Remove,46205,,Removal Overdue
+AR-005,Q2 2026,GitHub,sample-user-05,Developer,IT Operations,46218,,Pending,,,Review Overdue
+AR-006,Q2 2026,SSO,sample-user-06,Standard,IT Operations,46218,46202,Retain,,,Approved
+AR-007,Q2 2026,AWS IAM,sample-user-07,Read-only,IT Operations,46218,46203,Retain,,,Approved
+AR-008,Q2 2026,GitHub,sample-user-08,Admin,IT Operations,46218,46203,Remove,46206,46204,Closed

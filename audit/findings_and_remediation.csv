@@ -1,0 +1,10 @@
+Finding ID,Source Record,Control ID,Issue,Priority (illustrative),Owner,Original Due,Recommended Action,Remediation Status,Closure Evidence
+F-001,EV-004,AC-02,Overdue,Medium,IT Operations,2026-07-15,Obtain and validate missing evidence; assess control operation,Open — simulated,Not yet supplied
+F-002,EV-006,AC-03,Exception,High,HR / IT,2026-06-20,Investigate offboarding failure; verify access revocation and document root cause,Open — simulated,Not yet supplied
+F-003,EV-008,CL-01,Overdue,Medium,Cloud Engineering,2026-07-05,Obtain and validate missing evidence; assess control operation,Open — simulated,Not yet supplied
+F-004,EV-010,CL-02,Overdue,Medium,Cloud Engineering,2026-06-25,Obtain and validate missing evidence; assess control operation,Open — simulated,Not yet supplied
+F-005,EV-016,IR-01,Overdue,Medium,Security,2026-06-20,Obtain and validate missing evidence; assess control operation,Open — simulated,Not yet supplied
+F-006,EV-020,VR-01,Overdue,Medium,Procurement / Security,2026-06-30,Obtain and validate missing evidence; assess control operation,Open — simulated,Not yet supplied
+F-007,EV-024,BC-01,Overdue,Medium,IT Operations,2026-07-15,Obtain and validate missing evidence; assess control operation,Open — simulated,Not yet supplied
+F-008,AR-004,AC-02,Removal Overdue,High,IT Operations,2026-07-02,Disable or justify access immediately; validate closure evidence,Open — simulated,Not yet supplied
+F-009,AR-005,AC-02,Review Overdue,Medium,IT Operations,2026-07-15,Complete review; document approval and exceptions,Open — simulated,Not yet supplied
